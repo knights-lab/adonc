@@ -11,8 +11,7 @@ __email__ = "hillmannben@gmail.com"
 __license__ = "AGPL"
 __maintainer__ = "Benjamin Hillmann"
 
-long_description = 'Make a Python module into an executable - (pronounced eggsecutable)
-'
+long_description = 'Make a Python module into an executable - (pronounced eggsecutable)'
 
 setup(
     name='adonc',
